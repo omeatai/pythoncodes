@@ -1,9 +1,9 @@
-# y = 1
-# x = 2 + 3j;
-# z = 2.0e10 + 3.0j;
-# print(type(x))
-# print(type(y))
-# print(type(z))
+y = 1
+x = 2 + 3j;
+z = 2.0e10 + 3.0j
+print(type(x))
+print(type(y))
+print(type(z))
 
 # x = 1    # int
 # y = 2.8  # float
