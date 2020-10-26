@@ -1,6 +1,8 @@
 # You can use double or single quotes:
-# print("Hello")
-# print('Hello')
+# a = "Hello"
+# b = 'Hello'
+# print(a)
+# print(b)
 
 #You can assign a multiline string to a variable by using three quotes:
 # b = """Lorem ipsum dolor sit amet,
@@ -17,7 +19,6 @@
 #Get the characters from position 2 to position 5:
 # b = "Hello, Mike!"
 # print(b[2:5])
-
 #Get the characters from position StartIndex to position EndIndex (with step):
 # b = "Hello Everyone"
 # print(b[0:10])
@@ -30,7 +31,8 @@
 # print(b[-8:-2:1])
 # print(b[-10:-2:2])
 
-# a = "Hello, Mike!"
+#To get the length of a string(number of characters), use the “len()” function.
+# a = "Hello, Mik"
 # print(len(a))
 
 #Check if the phrase "ain" is present or NOT present in the following text:
