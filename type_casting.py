@@ -1,6 +1,6 @@
 y = 1
-x = 2 + 3j;
-z = 2.0e10 + 3.0j
+x = 2 + 3j
+z = 2.0e10
 print(type(x))
 print(type(y))
 print(type(z))
